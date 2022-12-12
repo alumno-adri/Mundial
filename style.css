@@ -127,4 +127,13 @@ p {
         font-size:1.5rem;
         color:red;
       }
+
+li:first-child{
+    color:white;
+    font: 15px monospace;
+}
+
+li:last-child{
+    color:white;
+    font: 15px monospace;
 }
