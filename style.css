@@ -123,3 +123,13 @@ p {
     height: 100px;
     text-align: center;
 }
+
+li:first-child{
+    color:white;
+    font: 15px monospace;
+}
+
+li:last-child{
+    color:white;
+    font: 15px monospace;
+}
