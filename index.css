@@ -3,10 +3,6 @@ body{
     background-attachment: fixed;
     background-repeat: no-repeat;
 }
-tr,td{
-    color: white;
-    background-color: black;
-}
 a[target]{
     color: #f00;
     font: 75px fantasy;
@@ -21,4 +17,13 @@ a[href*="selecciones"]{
     color: #f00;
     font: 75px fantasy;
     text-decoration: underline;
+}
+div{
+    text-align: center;
+    padding-left: 550px;
+    padding-top: 50px;
+    margin: auto;
+}
+table{
+    border-collapse:collapse;
 }
