@@ -1,0 +1,24 @@
+body{
+    background-image: url(https://images6.alphacoders.com/550/550393.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+tr,td{
+    color: white;
+    background-color: black;
+}
+a[target]{
+    color: #f00;
+    font: 75px fantasy;
+    text-decoration: underline;
+}
+a[href^="Mundial"]{
+    color: #f00;
+    font: 75px fantasy;
+    text-decoration: underline;
+}
+a[href*="selecciones"]{
+    color: #f00;
+    font: 75px fantasy;
+    text-decoration: underline;
+}
