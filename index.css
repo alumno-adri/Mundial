@@ -3,7 +3,7 @@ body{
     background-attachment: fixed;
     background-repeat: no-repeat;
 }
-a[target]{
+a[href^="estadios"]{
     color: #f00;
     font: 75px fantasy;
     text-decoration: underline;
@@ -26,4 +26,10 @@ div{
 }
 table{
     border-collapse:collapse;
+}
+tr:nth-child(even){
+    background-color: lightgreen;
+}
+tr:nth-child(odd){
+    background-color: lightblue;
 }
