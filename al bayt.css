@@ -1,0 +1,25 @@
+body{
+    background-image: url(https://cloudinary.fifa.com/m/c8fb2a0f9ea9ee52/original/qvbxqr5uir54g7nxgsea-jpg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center ;
+    background-attachment: fixed;
+}
+
+  h1 {
+    text-align: center;
+    color: red;
+  }
+
+
+  p{
+    text-align: center;
+    color: black;
+  }
+  .descripción{
+    background-color: white;
+  }
+  div{
+    width: 40%;
+    padding-left: 30%;
+  }
