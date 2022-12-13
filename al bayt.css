@@ -7,3 +7,10 @@
         height:50px;
         background-color:yellow;
       }
+body{
+    background-image: url(https://cloudinary.fifa.com/m/c8fb2a0f9ea9ee52/original/qvbxqr5uir54g7nxgsea-jpg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center ;
+    background-attachment: fixed;
+}
