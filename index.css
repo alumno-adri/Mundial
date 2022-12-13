@@ -28,8 +28,12 @@ table{
     border-collapse:collapse;
 }
 tr:nth-child(even){
-    background-color: lightgreen;
+    background-color: greenyellow;
 }
 tr:nth-child(odd){
     background-color: lightblue;
+}
+img{
+    float: left;
+    margin: 5%;
 }
